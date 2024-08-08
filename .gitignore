@@ -1,0 +1,5 @@
+# JetBrains IDE
+.idea/
+
+# json cred file
+*.json
