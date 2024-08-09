@@ -3,6 +3,9 @@
 
 `googlecli` is a command-line tool for interacting with Gmail and Google Drive. It allows you to download and purge your emails and drive content based on various filters.
 
+![20f71f07-4c70-4638-a79a-6a76c101088b](https://github.com/user-attachments/assets/b12e88ca-7b00-4010-beaa-c67d6a54edc8)
+
+
 ## Installation
 
 To install `googlecli`, you can use the following command:
